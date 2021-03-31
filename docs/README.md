@@ -4,7 +4,7 @@ heroImage: 'https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@1.1/img/logo.jpg'
 heroText: SaaS项目
 tagline: A magical vuepress-template
 actionText: 点击开始 →
-actionLink: /指南/10.基础/01.介绍
+actionLink: /指南/1.第一章/01.介绍
 
 features:
   - title: 侧边栏分组
