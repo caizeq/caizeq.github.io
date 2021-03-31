@@ -8,8 +8,9 @@ git add -A
 git commit -m "deploy"
 git checkout -b dev
 git push -f https://gitee.com/caizq/vuepress.git dev
-rm -rf docs/.vuepress/dist
-cd -
+# rm -rf docs/.vuepress/dist
+# cd -
+@pause
 
 
 
