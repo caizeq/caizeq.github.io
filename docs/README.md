@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: 'https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@1.1/img/logo.jpg'
-heroText: SaaS项目
+heroText: web前端
 tagline: A magical vuepress-template
 actionText: 点击开始 →
 actionLink: /指南/1.第一章/01.介绍
@@ -13,5 +13,5 @@ features:
     details: 只需代码提交GitHub，便可自动打包和部署到GitHub Pages分支上。
   - title: 权限验证
     details: 根据权限动态加载路由，渲染侧边栏
-footer: MIT Licensed | Copyright © 2020-present lcx
+footer: MIT Licensed | Copyright © 2021-present czq
 ---

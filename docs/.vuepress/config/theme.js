@@ -12,7 +12,7 @@ const themeConfig = {
   lastUpdated: '最后更新时间',
   nav: [{
         text: '指南',
-        link: '/指南/10.基础/01.介绍',
+        link: '/指南/1.第一章/01.介绍',
       }
   ],
   

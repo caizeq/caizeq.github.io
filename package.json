@@ -9,7 +9,7 @@
     "docs:dev": "vuepress dev docs --port 3000 --temp .temp",
     "docs:build": "vuepress build docs"
   },
-  "author": "lcx",
+  "author": "czq",
   "license": "ISC",
   "devDependencies": {
     "dayjs": "^1.10.4",
