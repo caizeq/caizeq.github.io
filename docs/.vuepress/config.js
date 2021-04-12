@@ -5,7 +5,7 @@ module.exports = {
   title: '个人博客',
   description: '前端博客,个人技术博客,前端,前端开发,前端框架,web前端,前端面试题,技术文档,学习,面试,JavaScript,js,ES6,TypeScript,vue,python,css3,html5,Node,git,github,markdown',
   head: [
-    ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/polar_bear.jpg' }],
+    ['link', { rel: 'icon', href: 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJxiaNo3EpfoFJay1BGroZemgeZDQSVlEORKT6fyc1AA1ZFicR8vg5FG1zKa9iaalWB3uZCVSPiaR8Jgg/132' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
     ['meta', {
         name: 'keywords',
