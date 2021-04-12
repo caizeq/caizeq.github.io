@@ -4,12 +4,12 @@ npm run docs:build && cd docs/.vuepress/dist
 # github && 码云
 git init
 git add -A
-# date=`date +%Y-%m-%d_%H:%M:%S`
-git commit -m "deploy"
+date=`date +%Y-%m-%d_%H:%M:%S`
+git commit -m "deploy ${date}"
 git checkout -b dev
-git push -f https://gitee.com/caizq/vuepress.git dev
-# rm -rf docs/.vuepress/dist
-# cd -
+git push -f https://gitee.com/caizq/caizq.git dev
+rm -rf docs/.vuepress/dist
+cd -
 @pause
 
 
