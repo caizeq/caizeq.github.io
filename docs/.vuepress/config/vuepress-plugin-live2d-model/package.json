@@ -1,0 +1,41 @@
+{
+  "_from": "vuepress-plugin-live2d-model@^1.0.0",
+  "_id": "vuepress-plugin-live2d-model@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-2z7k8uJM5vIiOqSDcbq0yIUW+9E=",
+  "_location": "/vuepress-plugin-live2d-model",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "vuepress-plugin-live2d-model@^1.0.0",
+    "name": "vuepress-plugin-live2d-model",
+    "escapedName": "vuepress-plugin-live2d-model",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/vuepress-plugin-live2d-model/download/vuepress-plugin-live2d-model-1.0.0.tgz",
+  "_shasum": "db3ee4f2e24ce6f2223aa48371bab4c88516fbd1",
+  "_spec": "vuepress-plugin-live2d-model@^1.0.0",
+  "_where": "E:\\caizqBlog",
+  "author": {
+    "name": "前端有道"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "plugin for vuepress live2d",
+  "keywords": [
+    "vuepress-plugin-live2d-model",
+    "vuepress",
+    "vuepress看板娘"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "vuepress-plugin-live2d-model",
+  "version": "1.0.0"
+}
