@@ -1,0 +1,54 @@
+{
+  "_from": "vuepress-plugin-musicplayer",
+  "_id": "vuepress-plugin-musicplayer@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha1-VQdsG6Ka40deSHtKf5BLstw29bg=",
+  "_location": "/vuepress-plugin-musicplayer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vuepress-plugin-musicplayer",
+    "name": "vuepress-plugin-musicplayer",
+    "escapedName": "vuepress-plugin-musicplayer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/vuepress-plugin-musicplayer/download/vuepress-plugin-musicplayer-1.0.5.tgz",
+  "_shasum": "55076c1ba29ae3475e487b4a7f904bb2dc36f5b8",
+  "_spec": "vuepress-plugin-musicplayer",
+  "_where": "E:\\caizqBlog",
+  "author": {
+    "name": "前端有道"
+  },
+  "bugs": {
+    "url": "https://github.com/qqlcx5/vuepress-plugin-musicplayer/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "deprecated": false,
+  "description": "plugin for vuepress music player",
+  "homepage": "https://github.com/qqlcx5",
+  "keywords": [
+    "vuepress",
+    "音乐播放器",
+    "vuepress-plugin-musicplayer"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "vuepress-plugin-musicplayer",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "url": "git+https://github.com/qqlcx5/vuepress-plugin-musicplayer.git"
+  },
+  "version": "1.0.5"
+}
