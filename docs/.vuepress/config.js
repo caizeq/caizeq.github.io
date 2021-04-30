@@ -2,7 +2,7 @@ const plugins = require('./config/plugins');
 const themeConfig = require('./config/theme');
 module.exports = {
   // 项目路径
-  base: '/caizq/',
+  base: '/caizeq.github.io/',
   title: '个人博客',
   description: '前端博客,个人技术博客,前端,前端开发,前端框架,web前端,前端面试题,技术文档,学习,面试,JavaScript,js,ES6,TypeScript,vue,python,css3,html5,Node,git,github,markdown',
   head: [
