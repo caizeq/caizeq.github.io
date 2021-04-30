@@ -36,6 +36,7 @@
               <span>专辑</span>
             </div>
             <ul class="_list scrollbar">
+              <!-- 当前歌曲列表 -->
               <li
                 v-for="(item,index) in thisMusicList" :key="index"
                 @mouseover="ButtonActive(index)"
@@ -50,7 +51,7 @@
                     <div
                       class="list_play"
                       title="播放这首歌"
-                      :style="{backgroundImage:'url('+listPlay+')'}"
+                      :style="{backgroundImage:'url('+ (listButtonActiveIndex == index ? 'https://betasaas.oss-cn-hangzhou.aliyuncs.com/saas-xmmall/third-party/pause.png' : listPlay) +')'}"
                       @click="ListPlay((thisListPage-1)*50+index)"></div>
                     <div
                       class="list_play"
